@@ -1,8 +1,10 @@
 
-Hi 👋 I'm Kurtis Casperson
+Hi 👋 
+I'm Kurtis Casperson
 ==========================
 
-Web Developer
+Don't trust a javascript developer...
+<i>All they do are promises but they never callback!!</i>
 -------------
 
 - 📫 How to reach me: [kcasperson7@gmail.com](kcasperson7@gmail.com)
