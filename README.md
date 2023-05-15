@@ -5,7 +5,7 @@ I'm Kurtis Casperson
 
 Don't trust a javascript developer...
 <br>
-<i>All they do are promises but they never callback!!</i>
+<i>All they do are promises but they never callback!</i>
 -------------
 
 - 📫 How to reach me: [kcasperson7@gmail.com](kcasperson7@gmail.com)
