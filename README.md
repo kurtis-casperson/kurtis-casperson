@@ -2,9 +2,8 @@
 Hi 👋 <br>
 I'm Kurtis Casperson
 ==========================
-
-<p>Don't trust a javascript developer...</p>
 <br>
+<p>Don't trust a javascript developer...</p><br>
 <p><i>All they do are promises but they never callback!</i></p>
 -------------
 
