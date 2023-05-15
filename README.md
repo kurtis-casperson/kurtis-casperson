@@ -3,9 +3,9 @@ Hi 👋 <br>
 I'm Kurtis Casperson
 ==========================
 
-Don't trust a javascript developer...
+<p>Don't trust a javascript developer...</p>
 <br>
-<i>All they do are promises but they never callback!</i>
+<p><i>All they do are promises but they never callback!</i></p>
 -------------
 
 - 📫 How to reach me: [kcasperson7@gmail.com](kcasperson7@gmail.com)
