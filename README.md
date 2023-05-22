@@ -8,7 +8,8 @@ I'm Kurtis Casperson
 -------------
 
 - 📫 How to reach me: [kcasperson7@gmail.com](kcasperson7@gmail.com)
-- 🧑‍💻 Portfolio Website: www.kurtiscodes.com
+- 🧑‍💻 Portfolio Website: <a href="www.kurtiscodes.com" target="_blank"></a>
+- www.kurtiscodes.com
 
 ### Skills
 
