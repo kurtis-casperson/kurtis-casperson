@@ -7,7 +7,6 @@ I'm Kurtis Casperson
 <p><i>All they do are promises but they never callback!</i></p>
 -------------
 
-- 📫 How to reach me: [kcasperson7@gmail.com](kcasperson7@gmail.com)
 - 🧑‍💻 Portfolio Website: www.kurtiscodes.com
 
 ### Skills
