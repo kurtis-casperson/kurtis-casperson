@@ -1,5 +1,5 @@
 
-Hi 👋 <br>
+Hi <br>
 I'm Kurtis Casperson
 ==========================
 <br>
